@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import type { Comment } from '../../types';
 import Avatar from '../UI/Avatar';
-import { BsThreeDots } from 'react-icons/bs';
 import { MdVerified } from 'react-icons/md';
 import { formatTimeAgo } from '../../utils/formatDate';
 import CommentInput from './CommentInput';
