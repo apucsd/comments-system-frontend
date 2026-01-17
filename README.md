@@ -1,4 +1,4 @@
-# Mehor - Comment System
+# Comments System
 
 A modern, high-performance comment system built with React, TypeScript, and Vite. This project provides a robust solution for integrating comments into any web application, featuring nested replies, like/dislike functionality, and seamless authentication.
 
