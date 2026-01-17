@@ -44,14 +44,7 @@ A modern, high-performance comment system built with React, TypeScript, and Vite
       npm install
       ```
 
-3. **Environment Setup**:
-   Create a `.env` file in the root directory (if needed) and configure your backend API URL:
-
-      ```env
-      VITE_API_BASE_URL=http://localhost:5000/api/v1
-      ```
-
-4. **Run the development server**:
+3. **Run the development server**:
 
       ```bash
       yarn dev
@@ -59,7 +52,7 @@ A modern, high-performance comment system built with React, TypeScript, and Vite
       npm run dev
       ```
 
-5. **Build for production**:
+4. **Build for production**:
       ```bash
       yarn build
       # or
